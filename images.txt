@@ -4,3 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+sha256:f1cd88cd24fe85d5304ba854e7a5f70c582afa618a7f1ee6c0503a2456d7e742
+#colabfold
